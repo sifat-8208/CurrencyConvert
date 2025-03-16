@@ -19,7 +19,7 @@ Welcome to the Currency Converter! This project allows users to convert amounts 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CurrencyConvert.git
+   git clone https://github.com/sifat-8208/CurrencyConvert.git
    ```
 2. Navigate to the project directory:
    ```bash
