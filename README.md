@@ -34,7 +34,7 @@ Welcome to the Currency Converter! This project allows users to convert amounts 
 
 1. Run the converter script:
    ```bash
-   python currency_converter.py
+   python CurrencyConverter.py
    ```
 2. Follow the on-screen instructions to perform currency conversions.
 3. Enter the currency codes and amount to convert.
